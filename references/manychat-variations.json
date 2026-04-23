@@ -1,0 +1,75 @@
+{
+  "_note": "Pools the save_keyword.py script rotates through so viewers don't see the same automation text twice. Edit freely — one variation is picked at random per run.",
+
+  "comment_reply": [
+    "Sent 📩 check your DMs",
+    "DMed you 👀",
+    "Just slid into your DMs 👀",
+    "Check your inbox 📬",
+    "Sending it now, check ur DMs",
+    "In your DMs 🎯",
+    "Mailed it — peep your DMs",
+    "Just sent it over 💌"
+  ],
+
+  "opening_dm": [
+    "Yo, click below and I'll send the link in a sec",
+    "Got you — tap below and I'll pass it over",
+    "Hey! Hit the button and it's all yours",
+    "Aight, click below and I'll shoot it through",
+    "Here for it — tap below to grab it",
+    "Locked in — click below and I'll send it",
+    "Sliding it over — just tap below",
+    "Got it queued up — click below to get it"
+  ],
+
+  "opening_button": [
+    "Send me the link",
+    "Gimme the link",
+    "Send it over",
+    "Drop it",
+    "Hand it over",
+    "Let's go",
+    "I want in",
+    "Shoot it"
+  ],
+
+  "follow_gate_dm": [
+    "Nearly there! The link's just for followers — hit follow and I'll send it over 🎯",
+    "One last step — I only send this to people who follow. Drop a follow and it's yours.",
+    "Small ask — follow me first so I can keep sending stuff like this. Then the link's all yours.",
+    "Almost! I reserve this for followers only. Hit follow and the link comes through right after.",
+    "One more thing — this one's for the real ones. Follow me and I'll slide it into your DMs.",
+    "Quick favor — follow me and I'll send the link straight after 🙌"
+  ],
+
+  "follow_gate_button": [
+    "Following",
+    "Done",
+    "Followed",
+    "Hit follow",
+    "Locked in"
+  ],
+
+  "link_dm": [
+    "Here you go, enjoy 🙌",
+    "Here u go my g",
+    "All yours 🎯",
+    "There you go — go eat",
+    "You're in 🔥",
+    "Enjoy — lmk what you think",
+    "Send me a DM once you've watched it 🔥",
+    "Straight to the point 👇"
+  ],
+
+  "link_card_label": [
+    "Watch now",
+    "Access here",
+    "Tap to watch",
+    "Check it out",
+    "Here it is",
+    "Open it",
+    "Let's go",
+    "Dive in"
+  ]
+}
