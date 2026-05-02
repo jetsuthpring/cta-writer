@@ -2,6 +2,11 @@
 
 A Claude Code skill that turns short-form scripts (TikTok, Reels, Shorts) into ManyChat comment-to-DM setups that route viewers to the most relevant long-form video on a client's YouTube channel.
 
+## Guides
+
+- **[Operator guide (GUIDE.md)](./GUIDE.md)** — full walkthrough for the agency operator running the skill.
+- **[Client setup guide (CLIENT_GUIDE.md)](./CLIENT_GUIDE.md)** — from-scratch ManyChat setup for clients. Send this link to anyone who needs to wire ManyChat on their own IG.
+
 ## What it does
 
 1. You paste a short-form script.
