@@ -2,10 +2,24 @@
 
 A Claude Code skill that turns short-form scripts (TikTok, Reels, Shorts) into ManyChat comment-to-DM setups that route viewers to the most relevant long-form video on a client's YouTube channel.
 
-## Guides
+---
+
+## 📥 For clients — download the setup guide
+
+If you're a **client** setting up ManyChat for your videos, this is the only thing you need:
+
+- **[📄 Read online (CLIENT_GUIDE.md)](./CLIENT_GUIDE.md)** — open in your browser, no download needed.
+- **[⬇️ Download PDF (CLIENT_GUIDE.pdf)](https://github.com/jetsuthpring/cta-writer/raw/main/CLIENT_GUIDE.pdf)** — save it locally / print it / use offline.
+- **[⬇️ Download Markdown (raw)](https://raw.githubusercontent.com/jetsuthpring/cta-writer/main/CLIENT_GUIDE.md)** — paste into Notion, Google Docs, etc.
+
+The guide walks through the full process from scratch: sending Jet your YouTube channel, receiving the CTA + ManyChat block, one-time IG/ManyChat account setup, per-video automation setup, testing, and posting.
+
+---
+
+## Guides (for the operator)
 
 - **[Operator guide (GUIDE.md)](./GUIDE.md)** — full walkthrough for the agency operator running the skill.
-- **[Client setup guide (CLIENT_GUIDE.md)](./CLIENT_GUIDE.md)** — from-scratch ManyChat setup for clients. Send this link to anyone who needs to wire ManyChat on their own IG.
+- **[Client setup guide (CLIENT_GUIDE.md)](./CLIENT_GUIDE.md)** — same as the link above, for client distribution.
 
 ## What it does
 
